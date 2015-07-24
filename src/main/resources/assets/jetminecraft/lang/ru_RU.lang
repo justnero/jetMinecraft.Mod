@@ -1,0 +1,13 @@
+menu.title=Меню
+menu.site=Сайт
+menu.forum=Форум
+menu.vk=ВКонтакте
+menu.developer=Разработчик
+
+direction.title=§9Направление: %s
+direction.south=Юг
+direction.west=Запад
+direction.north=Север
+direction.east=Восток
+
+key.categories.jet=jetMinecraft

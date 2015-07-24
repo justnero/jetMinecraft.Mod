@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jetMinecraft",
+  "name": "jetMinecraft",
+  "description": "jetMinecraft main mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://justnero.ru",
+  "updateUrl": "",
+  "authorList": ["justnero"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

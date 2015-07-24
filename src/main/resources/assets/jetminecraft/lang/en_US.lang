@@ -1,0 +1,13 @@
+menu.title=Menu
+menu.site=Site
+menu.forum=Forum
+menu.vk=VK
+menu.developer=Developer
+
+direction.title=§9Direction: %s
+direction.south=South
+direction.west=West
+direction.north=North
+direction.east=East
+
+key.categories.jet=jetMinecraft
