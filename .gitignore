@@ -1,0 +1,6 @@
+.gradle
+build/
+*.class
+hs_err_pid*
+/.nb-gradle/private/
+/.nb-gradle/
